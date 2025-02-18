@@ -9,14 +9,14 @@ init(autoreset=True)
 # Display header information
 def display_header():
     header_text = """
-console.log(chalk.cyan.bold(` █████╗ ███████╗██╗   ██╗███╗   ██╗ ██████╗`));
-console.log(chalk.cyan.bold(`██╔══██╗██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝`));
-console.log(chalk.cyan.bold(`███████║███████╗ ╚████╔╝ ██╔██╗ ██║██║      `));
-console.log(chalk.cyan.bold(`██╔══██║╚════██║  ╚██╔╝  ██║╚██╗██║██║      `));
-console.log(chalk.cyan.bold(`██║  ██║███████║   ██║   ██║ ╚████║╚██████╔ `));
-console.log(chalk.cyan.bold(`╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝ `));
-console.log(chalk.cyan.bold(`               JOIN AIRDROP         `));
-console.log(chalk.cyan.bold(`      https://t.me/AirdropSyncReborn `));
+ █████╗ ███████╗██╗   ██╗███╗   ██╗ ██████╗
+██╔══██╗██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝
+███████║███████╗ ╚████╔╝ ██╔██╗ ██║██║     
+██╔══██║╚════██║  ╚██╔╝  ██║╚██╗██║██║     
+██║  ██║███████║   ██║   ██║ ╚████║╚██████╔
+╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝
+               JOIN AIRDROP         
+      https://t.me/AirdropSyncReborn 
     """
     print(Fore.CYAN + Style.BRIGHT + header_text + "\n")
 
