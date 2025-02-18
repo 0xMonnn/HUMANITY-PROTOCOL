@@ -1,12 +1,6 @@
 ## INFORMATION
-This is a bot from Humanity Protocol
-
-Active Features :
 
 • Auto Claim $RWT
-
-
-Join Link : testnet.humanity.org/login?ref=bianzz
 
 ## Installation
 
@@ -20,13 +14,16 @@ cd HumanityProtocol
 2. Install dependencies:
 
 ```bash
-pip install -r requirements.txt or pip3 install -r requirements.txt 
+pip install -r requirements.txt
+
 ```
 
-### Setting Up Accounts
+### Setting Up Your Account
+
 ```bash
 nano private_keys.txt
 ```
+
 1. Edit `private_keys.txt` file in the root directory
 2. Add private_keys (one per line) for each account
 
@@ -36,15 +33,15 @@ private_key_2
 private_key_3
 ```
 
-
 ## Usage
 
 Run the bot:
 
 ```bash
-python bot.py or python3 bot.py
+python bot.py
 
 ```
 
-## My Channel Telegram
-https://t.me/superbianz
+## JJOIN TELEGRAM CHANNEL
+
+https://t.me/AirdropSyncReborn
