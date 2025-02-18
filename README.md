@@ -7,8 +7,8 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/dreambabyyy/HumanityProtocol.git
-cd HumanityProtocol
+git clone https://github.com/0xMonnn/HUMANITY-PROTOCOL.git
+cd HUMANITY-PROTOCOL
 ```
 
 2. Install dependencies:
